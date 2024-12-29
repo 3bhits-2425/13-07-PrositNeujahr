@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Obs
   - Crash
+  - Tree
   layers:
   - Default
   - TransparentFX

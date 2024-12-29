@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MyGame/Emil/Scences/Mechanics.unity
+    guid: a943359dae2793e4e8ac7b7cbf973c02
+  - enabled: 1
+    path: Assets/MyGame/Emil/Scences/winscene.unity
+    guid: fc8984883786b234a9cc026f9ac545b6
   m_configObjects: {}
